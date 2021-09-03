@@ -1,24 +1,26 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
-<h3 align="center">Professional programmer in the making</h3>
+<h3 align="center">Professional programmer in the making, also love designing lots of stuff. </h3>
 
+<br/>
+<br/>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently working on [Website](https://github.com/unfinishedd/Portfolio-Website)
+- 🔭 I am currently working on [my website portfolio](https://github.com/unfinishedd/Portfolio-Website)
 
-- 👨‍💻 My projects are available at [Projects](https://github.com/unfinishedd?tab=repositories)
+- 👨‍ My projects are available at [projects](https://github.com/unfinishedd?tab=repositories)
 
 - 💬 You can ask me about **HTML, CSS, C#, JAVASCRIPT, PHP, PYTHON**
 
-## 🚀 Languages and Tools:
+<br/>
+<br/>
+
+## 🛠 Languages and Tools:
 
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -27,6 +29,7 @@
 </p>
 
 <br/>
+<br/>
 
 <p align="center">
     <a href="https://github.com/unfinishedd/github-readme-streak-stats">
@@ -34,14 +37,16 @@
     </a>
 </p>
 
+<br/>
+<br/>
+
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/unfinishedd/github-readme-stats"><img alt="unfinishedd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=unfinishedd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/unfinishedd/github-readme-stats"><img alt="unfinishedd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfinishedd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  	<a href="https://github.com/unfinishedd/github-readme-stats"><img alt="unfinishedd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=unfinishedd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  	<a href="https://github.com/unfinishedd/github-readme-stats"><img alt="unfinishedd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfinishedd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  <b>	Note:</b> The top languages are only a metric of the languages my public code consists of and do not reflect experience or skill level.
 
 <br/>
 <br/>
