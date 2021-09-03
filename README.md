@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Whatsgood, folks!
+Whatsgood, folks! 👋
 
 My name is Sam and I'm a software developer as off right now. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on Twitter, or on LinkedIn.
-✍ Blog & Writing
+✨ Myself
 
 Apart from coding, I also love designing stuff - you might find some of my designs on my website at unfinishedd.nl .
 🔧 Technologies & Tools
