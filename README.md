@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="pics/newLogoUnfinished.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="pics/daBackground.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
 <h3 align="center">Professional programmer in the making, also love designing lots of stuff. </h3>
