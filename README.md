@@ -12,7 +12,7 @@
 
 - 👨‍ My projects are available at [projects](https://github.com/unfinishedd?tab=repositories)
 
-- 💬 You can ask me about **HTML, CSS, C#, JAVASCRIPT, PHP, PYTHON**
+- 💬 You can ask me about **HTML, CSS, C#, JAVASCRIPT, PHP, PYTHON, LARAVEL**
 
 <br/>
 <br/>
