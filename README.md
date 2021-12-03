@@ -1,4 +1,4 @@
-<a href="https://www.unfinishedd.nl"><img width="100%" height="auto" src="pics/daBackground.png" height="175px"/></a>
+<p align="center"><img src="pics/daBackground.png" height="90" alt="unfinishedd"></p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
 <h3 align="center">Professional programmer in the making, also love designing. </h3>
