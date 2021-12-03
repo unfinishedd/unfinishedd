@@ -1,18 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="pics/daBackground.png" height="175px"/></a>
+<a href="https://www.unfinishedd.nl"><img width="100%" height="auto" src="pics/daBackground.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
-<h3 align="center">Professional programmer in the making, also love designing lots of stuff. </h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
+<h3 align="center">Professional programmer in the making, also love designing. </h3>
 
 <br/>
 <br/>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently working on [my website portfolio](https://github.com/unfinishedd/Portfolio-Website)
+- 🔭 I am currently working on [Foam Museum](https://github.com/unfinishedd/Foam-Museum.git)
 
 - 👨‍ My projects are available at [projects](https://github.com/unfinishedd?tab=repositories)
 
-- 💬 You can ask me about **HTML, CSS, C#, JAVASCRIPT, PHP, PYTHON, LARAVEL**
+- 💬 You can ask me about **HTML, CSS, C#, JAVASCRIPT, PHP, PYTHON, LARAVEL and TAILWIND CSS**
 
 <br/>
 <br/>
@@ -46,7 +46,7 @@
   	<a href="https://github.com/unfinishedd/github-readme-stats"><img alt="unfinishedd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=unfinishedd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   	<a href="https://github.com/unfinishedd/github-readme-stats"><img alt="unfinishedd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfinishedd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>	Note:</b> The top languages are only a metric of the languages my public code consists of and do not reflect experience or skill level.
+  <b>	Note:</b> _The top languages are only a metric of the languages my public code consists of and do not reflect experience or skill level._
 
 <br/>
 <br/>
